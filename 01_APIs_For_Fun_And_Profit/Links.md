@@ -1,6 +1,6 @@
 # Links from API for Fun and Profit
 
-*These are the links that Stuart used during his presentation.*
+*These are the links that Stuart used during his presentation.* 
 
 **PetStore Swagger UI** https://petstore.swagger.io/#/pet/addPet
 
