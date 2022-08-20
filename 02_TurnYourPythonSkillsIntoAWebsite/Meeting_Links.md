@@ -1,3 +1,7 @@
+# Recording for Presentation
+
+TBD
+
 # Raj Kapadia's Portfolio
 
 Bizimple Raj's Portfolio Digital Resume:
@@ -14,11 +18,11 @@ Django linking to Amazon S3:
 
 * [https://django-storages.readthedocs.io/en/latest/backends/amazon-S3.html]()
 
-AWS Management Console: 
+AWS Management Console:
 
 * [https://aws.amazon.com/console/]()
 
-Go Daddy: 
+Go Daddy:
 
 * [https://www.godaddy.com/]()
 
