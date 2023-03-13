@@ -2,9 +2,9 @@
 
 [Slideshow](https://docs.google.com/presentation/d/1yv9kwivZk3B486RtjmzuT7kPT_A5_nFpi99DW9l9Ieg/edit?usp=sharing "This is a Google Slide Presentation")
 
-Presentation Part 1 Recording TBD (please allow up to 48 hours to post)
+[Presentation Part 1 Recording](https://youtu.be/hCG7araedUQ) 
 
-Presentation Part 2 Recording TBD (please allow up to 48 hours to post)
+Presentation Part 2 Recording DATE TBD
 
 # Links
 
