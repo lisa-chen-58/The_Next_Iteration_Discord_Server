@@ -1,10 +1,10 @@
 # Presentation Recording
 
-### [Stuart's Slideshow](https://docs.google.com/presentation/d/1yv9kwivZk3B486RtjmzuT7kPT_A5_nFpi99DW9l9Ieg/edit?usp=sharing "This is a Google Slide Presentation")
+### [Stuart&#39;s Slideshow](https://docs.google.com/presentation/d/1yv9kwivZk3B486RtjmzuT7kPT_A5_nFpi99DW9l9Ieg/edit?usp=sharing "This is a Google Slide Presentation")
 
-### [Presentation Recording Part 1](https://youtu.be/hCG7araedUQ) 
+#### [Presentation Recording Part 1](https://youtu.be/hCG7araedUQ "Presentation took place on 3/19/2023 "): (Sunday March 26, 2023)
 
-#### Presentation Recording Part 2: **Sunday April 2, 2023. Please all 24-48 hours for recording posting**
+#### [Presentation Recording Part 2](https://youtu.be/Rcg2g3CZRYo "Presentation took place on 4/2/2023"): (**Sunday April 2, 2023)**
 
 # Presentation References
 
